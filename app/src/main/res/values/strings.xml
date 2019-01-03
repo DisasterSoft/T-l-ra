@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Túlóra</string>
+    <string name="udvozlo">Üdvözlöm! Ezt az aplikációt azért hoztam létre, mert azt mondta valaki
+    hogy emberileg lehetettlen 3 évig fejben tartani ki mennyit túlórázott. Ez az applikáció segít ebben!
+    Beírhatja mennyit dolgozott, és ha közben csatlakozva van az internethez, a rendszer elküldi Önnek az aktuális állást emailbe.
+    Ha kifizették, akkor le tudja nullázni a számlálót. </string>
+    <string name="bekuld">Feljegyez</string>
+    <string name="allowEmail">Ezt bekapcsolva engedélyezed az email küldést</string>
+    <string name="nullaz">Számlálók nullázása</string>
+    <string name="mai">Mai túlórám</string>
+    <string name="email">Ide kattintva adhatja meg az emailcímét</string>
+    <string name="admode">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ujEmail">Emailcím hozzáadása</string>
+    <string name="rename">Átnevez</string>
+    <string name="save">Mentés</string>
+    <string name="szamot">Ide csak számot lehet beírni</string>
+    <string name="back">Vissza</string>
+    <string name="notValidEmail">Kérlek érvényes email címet írj be!</string>
+    <string name="itemNotNamed">Kérlek adj meg egy email címet! </string>
+    <string name="emailError">Nincs telepített email kliens! </string>
+    <string name="emailsend">Kérlek válassz egy programot amivel el tudod küldeni az emailt </string>
+    <string name="emailSubjeckt">Mai túlórám</string>
+    <string name="emailBody1">Kedves felhasználó! A Mai napon </string>
+    <string name="emailBody2">Órát túlóráztál. Összesen eddig </string>
+    <string name="emailBody3">Óra túlórád van! Üdvözlettel Disastersoft, túlóra számláló programja!</string>
+
+</resources>
